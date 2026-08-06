@@ -1,0 +1,5 @@
+Coloque nesta pasta as fotos dos professores.
+Formatos recomendados: JPG, PNG ou WEBP.
+Proporção recomendada: vertical 4:5.
+Depois informe o caminho da imagem no arquivo content.js.
+Exemplo: assets/professors/nome-professor.jpg
