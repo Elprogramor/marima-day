@@ -1,4 +1,0 @@
-Coloque nesta pasta as logos dos parceiros com fundo transparente.
-Formato recomendado: PNG ou WEBP transparente.
-Depois informe o caminho da logo no arquivo content.js.
-Exemplo: assets/partners/nome-parceiro.png
