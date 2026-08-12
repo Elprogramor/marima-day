@@ -58,5 +58,12 @@ window.MARIMA_DAY_CONFIG = {
       instagramUrl: "https://www.instagram.com/bananinha_vr?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
       logo: "assets/partners/bananinha-parceiro.png",
     },
+    {
+      active: true,
+      name: "Carol Carvalho",
+      instagram: "@carolcarvalho.acess",
+      instagramUrl: "https://www.instagram.com/carolcarvalho.acess?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      logo: "assets/partners/carol-carvalho-parceiro.png",
+    },
   ],
 };
