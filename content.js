@@ -63,7 +63,7 @@ window.MARIMA_DAY_CONFIG = {
       name: "Carol Carvalho",
       instagram: "@carolcarvalho.acess",
       instagramUrl: "https://www.instagram.com/carolcarvalho.acess?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
-      logo: "assets/partners/carol-carvalho-parceiro.png",
+      logo: "assets/partners/carol-carvalho-parceiro2.png",
     },
   ],
 };
