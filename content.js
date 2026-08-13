@@ -65,5 +65,12 @@ window.MARIMA_DAY_CONFIG = {
       instagramUrl: "https://www.instagram.com/carolcarvalho.acess?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
       logo: "assets/partners/carol-carvalho-parceiro2.png",
     },
+    {
+      active: true,
+      name: "Thaís Eloi",
+      instagram: "@thaiseloi",
+      instagramUrl: "https://www.instagram.com/thaiseloi?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      logo: "assets/partners/thais-eloi-parceiro.png",
+    },
   ],
 };
