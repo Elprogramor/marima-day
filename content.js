@@ -72,5 +72,12 @@ window.MARIMA_DAY_CONFIG = {
       instagramUrl: "https://www.instagram.com/thaiseloi?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
       logo: "assets/partners/thais-eloi-parceiro.png",
     },
+    {
+      active: true,
+      name: "Use Bárbara Brant",
+      instagram: "@use_barbarabrant",
+      instagramUrl: "https://www.instagram.com/use_barbarabrant?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      logo: "assets/partners/Barbara-parceiro.png",
+    },
   ],
 };
